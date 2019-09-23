@@ -21,7 +21,7 @@
         "name": "Earth (Replacement Dimension)",
         "url": "https://rickandmortyapi.com/api/location/20"
       },
-      "image": "https://github.com/Adalab/rick-y-morty/raw/master/assets/imgr/1.jpeg",
+      "image": "https://raw.githubusercontent.com/Adalab/rick-y-morty/master/assets/img/1.jpeg",
       "episode": [
         "https://rickandmortyapi.com/api/episode/1",
         "https://rickandmortyapi.com/api/episode/2",
@@ -73,7 +73,7 @@
         "name": "Earth (Replacement Dimension)",
         "url": "https://rickandmortyapi.com/api/location/20"
       },
-      "image": "https://github.com/Adalab/rick-y-morty/raw/master/assets/imgr/2.jpeg",
+      "image": "https://raw.githubusercontent.com/Adalab/rick-y-morty/master/assets/img/2.jpeg",
       "episode": [
         "https://rickandmortyapi.com/api/episode/1",
         "https://rickandmortyapi.com/api/episode/2",
@@ -125,7 +125,7 @@
         "name": "Earth (Replacement Dimension)",
         "url": "https://rickandmortyapi.com/api/location/20"
       },
-      "image": "https://github.com/Adalab/rick-y-morty/raw/master/assets/imgr/3.jpeg",
+      "image": "https://raw.githubusercontent.com/Adalab/rick-y-morty/master/assets/img/3.jpeg",
       "episode": [
         "https://rickandmortyapi.com/api/episode/6",
         "https://rickandmortyapi.com/api/episode/7",
@@ -170,7 +170,7 @@
         "name": "Earth (Replacement Dimension)",
         "url": "https://rickandmortyapi.com/api/location/20"
       },
-      "image": "https://github.com/Adalab/rick-y-morty/raw/master/assets/imgr/4.jpeg",
+      "image": "https://raw.githubusercontent.com/Adalab/rick-y-morty/master/assets/img/4.jpeg",
       "episode": [
         "https://rickandmortyapi.com/api/episode/6",
         "https://rickandmortyapi.com/api/episode/7",
@@ -215,7 +215,7 @@
         "name": "Earth (Replacement Dimension)",
         "url": "https://rickandmortyapi.com/api/location/20"
       },
-      "image": "https://github.com/Adalab/rick-y-morty/raw/master/assets/imgr/5.jpeg",
+      "image": "https://raw.githubusercontent.com/Adalab/rick-y-morty/master/assets/img/5.jpeg",
       "episode": [
         "https://rickandmortyapi.com/api/episode/6",
         "https://rickandmortyapi.com/api/episode/7",
@@ -257,7 +257,7 @@
         "name": "Abadango",
         "url": "https://rickandmortyapi.com/api/location/2"
       },
-      "image": "https://github.com/Adalab/rick-y-morty/raw/master/assets/imgr/6.jpeg",
+      "image": "https://raw.githubusercontent.com/Adalab/rick-y-morty/master/assets/img/6.jpeg",
       "episode": ["https://rickandmortyapi.com/api/episode/27"],
       "url": "https://rickandmortyapi.com/api/character/6",
       "created": "2017-11-04T19:50:28.250Z"
@@ -277,7 +277,7 @@
         "name": "Testicle Monster Dimension",
         "url": "https://rickandmortyapi.com/api/location/21"
       },
-      "image": "https://github.com/Adalab/rick-y-morty/raw/master/assets/imgr/7.jpeg",
+      "image": "https://raw.githubusercontent.com/Adalab/rick-y-morty/master/assets/img/7.jpeg",
       "episode": [
         "https://rickandmortyapi.com/api/episode/10",
         "https://rickandmortyapi.com/api/episode/11"
@@ -297,7 +297,7 @@
         "name": "Citadel of Ricks",
         "url": "https://rickandmortyapi.com/api/location/3"
       },
-      "image": "https://github.com/Adalab/rick-y-morty/raw/master/assets/imgr/8.jpeg",
+      "image": "https://raw.githubusercontent.com/Adalab/rick-y-morty/master/assets/img/8.jpeg",
       "episode": ["https://rickandmortyapi.com/api/episode/28"],
       "url": "https://rickandmortyapi.com/api/character/8",
       "created": "2017-11-04T20:03:34.737Z"
@@ -317,7 +317,7 @@
         "name": "Earth (Replacement Dimension)",
         "url": "https://rickandmortyapi.com/api/location/20"
       },
-      "image": "https://github.com/Adalab/rick-y-morty/raw/master/assets/imgr/9.jpeg",
+      "image": "https://raw.githubusercontent.com/Adalab/rick-y-morty/master/assets/img/9.jpeg",
       "episode": ["https://rickandmortyapi.com/api/episode/24"],
       "url": "https://rickandmortyapi.com/api/character/9",
       "created": "2017-11-04T20:06:54.976Z"
